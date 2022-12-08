@@ -1,0 +1,23 @@
+{
+  "name": "explorer-nivel06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRebertt/explorer-nivel06.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JRebertt/explorer-nivel06/issues"
+  },
+  "homepage": "https://github.com/JRebertt/explorer-nivel06#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
